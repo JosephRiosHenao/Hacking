@@ -1,0 +1,20 @@
+2020-12-02 21:35:28,150 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-12-02 21:35:28,151 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\RiosHenao\AppData\Local\Programs\Python\Python39\lib\site-packages\instabot\bot\bot.py
+2020-12-02 21:35:37,751 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-12-02 21:35:37,751 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-12-02 21:35:37,752 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\JOSEPH\Estudiantil y Accesos directos\Proyectos Personales\GIT\Hacking\PythonMethods/config/pochi_dibujos_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=0f2606f4-dc54-4b1d-9b2f-65eab57a3888
+- uuid=68ebb78b-425c-4a65-9e7b-ce58f95edc57
+- client_session_id=97d04cb9-5b8a-4dcd-a6eb-a4d6622c8977
+- device_id=android-1386a1cfb9c5da69
+2020-12-02 21:35:37,754 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-12-02 21:35:39,514 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-12-02 21:35:40,742 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-12-02 21:35:40,747 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'pochi_dibujos'!
+2020-12-02 21:35:40,747 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\JOSEPH\Estudiantil y Accesos directos\Proyectos Personales\GIT\Hacking\PythonMethods/config/pochi_dibujos.checkpoint
+2020-12-02 21:36:03,482 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-12-02 21:36:04,054 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-12-02 21:36:04,055 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'NewCanvas1.jpg' is uploaded.
+2020-12-02 21:36:04,056 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: D:\JOSEPH\Estudiantil y Accesos directos\Proyectos Personales\GIT\Hacking\PythonMethods/config/pochi_dibujos.checkpoint
+2020-12-02 21:36:04,057 - instabot version: 0.117.0 (bot) - INFO - Total requests: 36
